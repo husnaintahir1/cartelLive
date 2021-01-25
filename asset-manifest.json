@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/cartelLive/static/css/main.9239d1dc.chunk.css",
+    "main.js": "/cartelLive/static/js/main.9ba5901e.chunk.js",
+    "main.js.map": "/cartelLive/static/js/main.9ba5901e.chunk.js.map",
+    "runtime-main.js": "/cartelLive/static/js/runtime-main.1fc3a61f.js",
+    "runtime-main.js.map": "/cartelLive/static/js/runtime-main.1fc3a61f.js.map",
+    "static/css/2.cc9a4737.chunk.css": "/cartelLive/static/css/2.cc9a4737.chunk.css",
+    "static/js/2.17fe18f9.chunk.js": "/cartelLive/static/js/2.17fe18f9.chunk.js",
+    "static/js/2.17fe18f9.chunk.js.map": "/cartelLive/static/js/2.17fe18f9.chunk.js.map",
+    "static/js/3.1343d49e.chunk.js": "/cartelLive/static/js/3.1343d49e.chunk.js",
+    "static/js/3.1343d49e.chunk.js.map": "/cartelLive/static/js/3.1343d49e.chunk.js.map",
+    "index.html": "/cartelLive/index.html",
+    "static/css/2.cc9a4737.chunk.css.map": "/cartelLive/static/css/2.cc9a4737.chunk.css.map",
+    "static/css/main.9239d1dc.chunk.css.map": "/cartelLive/static/css/main.9239d1dc.chunk.css.map",
+    "static/js/2.17fe18f9.chunk.js.LICENSE.txt": "/cartelLive/static/js/2.17fe18f9.chunk.js.LICENSE.txt",
+    "static/media/Asset 1.34e051c4.png": "/cartelLive/static/media/Asset 1.34e051c4.png",
+    "static/media/font-awesome.css": "/cartelLive/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1fc3a61f.js",
+    "static/css/2.cc9a4737.chunk.css",
+    "static/js/2.17fe18f9.chunk.js",
+    "static/css/main.9239d1dc.chunk.css",
+    "static/js/main.9ba5901e.chunk.js"
+  ]
+}
